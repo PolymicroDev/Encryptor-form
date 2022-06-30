@@ -9,3 +9,14 @@ D:\My work\Coding\Forms\MyFirstForm\MyFirstForm\obj\Debug\MyFirstForm.csproj.Cor
 D:\My work\Coding\Forms\MyFirstForm\MyFirstForm\obj\Debug\MyFirstForm.exe
 D:\My work\Coding\Forms\MyFirstForm\MyFirstForm\obj\Debug\MyFirstForm.pdb
 D:\My work\Coding\Forms\MyFirstForm\MyFirstForm\obj\Debug\MyFirstForm.Form1.resources
+D:\My work\Coding\Forms\MyFirstForm\Encyptor-form\MyFirstForm\bin\Debug\MyFirstForm.exe.config
+D:\My work\Coding\Forms\MyFirstForm\Encyptor-form\MyFirstForm\bin\Debug\MyFirstForm.exe
+D:\My work\Coding\Forms\MyFirstForm\Encyptor-form\MyFirstForm\bin\Debug\MyFirstForm.pdb
+D:\My work\Coding\Forms\MyFirstForm\Encyptor-form\MyFirstForm\obj\Debug\MyFirstForm.csproj.AssemblyReference.cache
+D:\My work\Coding\Forms\MyFirstForm\Encyptor-form\MyFirstForm\obj\Debug\MyFirstForm.csproj.SuggestedBindingRedirects.cache
+D:\My work\Coding\Forms\MyFirstForm\Encyptor-form\MyFirstForm\obj\Debug\MyFirstForm.Form1.resources
+D:\My work\Coding\Forms\MyFirstForm\Encyptor-form\MyFirstForm\obj\Debug\MyFirstForm.Properties.Resources.resources
+D:\My work\Coding\Forms\MyFirstForm\Encyptor-form\MyFirstForm\obj\Debug\MyFirstForm.csproj.GenerateResource.cache
+D:\My work\Coding\Forms\MyFirstForm\Encyptor-form\MyFirstForm\obj\Debug\MyFirstForm.csproj.CoreCompileInputs.cache
+D:\My work\Coding\Forms\MyFirstForm\Encyptor-form\MyFirstForm\obj\Debug\MyFirstForm.exe
+D:\My work\Coding\Forms\MyFirstForm\Encyptor-form\MyFirstForm\obj\Debug\MyFirstForm.pdb
